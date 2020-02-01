@@ -1,6 +1,7 @@
 # Rancid Tomatillos
-
 By Allie McCarthy, Kate Malone, Allison Wagner
+
+paragraph of what the app is about
 
 This is application designed by was built with `create-react-app`.
 
@@ -8,6 +9,8 @@ This is application designed by was built with `create-react-app`.
 
 Clone the repo. Run npm install to ensure all dependencies are running. Enjoy!
 
+
+combine and restructure expectations and learning goals 
 ### Expectations / Spec
 
 Build a React App that pulls movie information from an API and uses Redux to store and manage it.  Allow the user to post and remove movie ratings to the API.
@@ -41,6 +44,11 @@ Build a React App that pulls movie information from an API and uses Redux to sto
 - Redux
 
 ## Demo
+
+make new gifs for app demo 
+one for login page and screeen shots 
+
+wireframe / inspiration
 
 
 
