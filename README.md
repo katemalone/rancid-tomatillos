@@ -1,7 +1,8 @@
 # Rancid Tomatillos
 By Allie McCarthy, Kate Malone, Allison Wagner
 
-paragraph of what the app is about
+
+Rancid Tomatillos is an app that to create a movie rating system. We were assigned a user and built a React App that pulls movie information from an API and uses Redux to store and manage it.  Allow the user to post and remove movie ratings to the API.
 
 This is application designed by was built with `create-react-app`.
 
@@ -9,26 +10,9 @@ This is application designed by was built with `create-react-app`.
 
 Clone the repo. Run npm install to ensure all dependencies are running. Enjoy!
 
-
-combine and restructure expectations and learning goals 
-### Expectations / Spec
-
-Build a React App that pulls movie information from an API and uses Redux to store and manage it.  Allow the user to post and remove movie ratings to the API.
-
-- [x] Create components and pass info between them using React and the Redux Store where approriate.
-- [x] Use an assigned user with a name, email, and password throughout the project. 
-- [x] Create a separate login page (/login) where the user can login
-- [x] After logging in, the user knows they are logged in and they are taken back to the homepage
-- [x] A user should be able to logout, and they are taken to the homepage. The app should should that no one is logged in.
-- [x] Use Router to create a dynamic route for a “show page” for each movie (/movies/5, for instance)
-- [x] A user should be able to see their own movie ratings only when they are logged in to the app.
-- [x] A user should be able to submit a rating for a movie. 
-- [x] Include functionality for the user to remove an existing rating they submitted and then be able to submit a new rating (effectively the user is editing their rating) 
-- [x] Fully test JSX, methods, props, state, redux, and async changes using enzyme and jest
-
 ## Learning Goals
 
-- [x] Become fluent in Redux. 
+- [x] Create components and pass info between them using React and the Redux Store. 
 - [x] Become comfortable using Fetch
 - [x] Reinforce understanding of React.
 - [x] Expand knowledge of frontend testing to test DOM elements
@@ -43,19 +27,13 @@ Build a React App that pulls movie information from an API and uses Redux to sto
 - React
 - Redux
 
-## Demo
+## Page Flow
 
-make new gifs for app demo 
-one for login page and screeen shots 
+# Login Page
+<img width="1437" alt="Screen Shot 2020-02-03 at 8 56 00 AM" src="https://user-images.githubusercontent.com/49652149/73668550-4154bb00-4663-11ea-8ed6-7013a14dda1f.png">
 
-wireframe / inspiration
-
-
-
-![Rancid Tomatillos App](https://media.giphy.com/media/W4ztfC4RixiCQhUy4p/giphy.gif)
-
-
-![Rancid Tomatillos App](https://media.giphy.com/media/SvM8n3rwxeBRuMrVJ9/giphy.gif)
+# Landing Page
+<img width="1438" alt="Screen Shot 2020-02-03 at 8 55 47 AM" src="https://user-images.githubusercontent.com/49652149/73668522-3863e980-4663-11ea-9106-4efb6e4a5b33.png">
 
 
 ## License
