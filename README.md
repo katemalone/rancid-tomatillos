@@ -4,8 +4,6 @@ By Allie McCarthy, Kate Malone, Allison Wagner
 
 Rancid Tomatillos is an app that to create a movie rating system. We were assigned a user and built a React App that pulls movie information from an API and uses Redux to store and manage it.  Allow the user to post and remove movie ratings to the API.
 
-This is application designed by was built with `create-react-app`.
-
 ### Set Up
 
 Clone the repo. Run npm install to ensure all dependencies are running. Enjoy!
